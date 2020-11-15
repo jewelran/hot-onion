@@ -1,0 +1,9 @@
+.FoodCard-conatainer{
+    width: 100%;
+    text-align: center;
+    background: hsl(0deg 13% 94%);
+    height: 100vh;
+    margin-top: -24px;
+    padding:10px;
+
+}

@@ -1,0 +1,14 @@
+.Navigation-conatainer{
+    width: 100%;
+    text-align: center;
+    background: rgb(240, 239, 236);
+    height: 23vh;
+    margin-top: -24px;
+    padding: 26px;
+    display: flex;
+}
+.button{
+    float:right;
+    width: 50%;
+    align-items: left;
+}

@@ -1,0 +1,10 @@
+.Footer-conatainer{
+    width: 100%;
+    text-align: center;
+    background: black;
+    color:white;
+    height: 100vh;
+    margin-top: -24px;
+    padding:10px;
+
+}
